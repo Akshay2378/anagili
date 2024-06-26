@@ -1,13 +1,3 @@
-# AKSHAY KUMAR NAGILIGARI
-
----
-
-## Summary
-
-As a Data Scientist and experienced software engineer with a strong passion for software development and problem-solving. Skilled in .NET application development, cloud computing, and machine learning. Proficient in SQL, Python, and R, with experience in predictive modeling and data visualization tools. Seeking opportunities to apply academic knowledge and practical experience to tackle real-world technical challenges.
-
----
-
 ## Experience
 
 ### Associate Software Engineer
