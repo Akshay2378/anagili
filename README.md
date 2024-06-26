@@ -1,10 +1,10 @@
-# A K S H A Y  K U M A R  N A G I L I G A R I
+# AKSHAY KUMAR NAGILIGARI
 
 ---
 
 ## Summary
 
-Experienced software engineer with a strong passion for software development and problem-solving. Skilled in .NET application development, cloud computing, and machine learning. Proficient in SQL, Python, and R, with experience in predictive modeling and data visualization tools. Seeking opportunities to apply academic knowledge and practical experience to tackle real-world technical challenges.
+As a Data Scientist and experienced software engineer with a strong passion for software development and problem-solving. Skilled in .NET application development, cloud computing, and machine learning. Proficient in SQL, Python, and R, with experience in predictive modeling and data visualization tools. Seeking opportunities to apply academic knowledge and practical experience to tackle real-world technical challenges.
 
 ---
 
@@ -35,7 +35,9 @@ Experienced software engineer with a strong passion for software development and
 **Osmania University** | Sept 2019 - May 2020
 
 ### Bachelor of Technology in Computer Science
-**MLR Institute of Technology** | Completed 2017
+**MLR Institute of Technology** | Sept 2013 - May 2017
+
+---
 
 ### Academic Projects
 
